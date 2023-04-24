@@ -6,7 +6,7 @@ The application is written in PHP and uses a MySQL database to store student inf
 # Files
 index.php: This is the homepage of the application. It provides a brief description of the application and options to login or register.
 
-# login.php: This page allows users to log in to the application using their username and password.
+login.php: This page allows users to log in to the application using their username and password.
 
 login1.php: This page processes the login request and redirects the user to the view students page if the login is successful, otherwise it redirects back to the login page with an error message.
 
@@ -32,4 +32,5 @@ Once logged in, you can add a new student to the record by clicking on the "Add 
 To view existing students, click on the "View Existing Students" link in the header. You can search for a student by name or student ID using the search box.
 To log out of the application, click on the "logout" link in the header.
 
-# Note: Only authorized users can add new students and view existing students. Unauthorized users will be redirected to the login page.
+# Note: 
+Only authorized users can add new students and view existing students. Unauthorized users will be redirected to the login page.
