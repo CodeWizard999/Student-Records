@@ -6,7 +6,7 @@ The application is written in PHP and uses a MySQL database to store student inf
 # Files
 index.php: This is the homepage of the application. It provides a brief description of the application and options to login or register.
 
-login.php: This page allows users to log in to the application using their username and password.
+# login.php: This page allows users to log in to the application using their username and password.
 
 login1.php: This page processes the login request and redirects the user to the view students page if the login is successful, otherwise it redirects back to the login page with an error message.
 
