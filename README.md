@@ -23,7 +23,6 @@ Usage
 
 # To use this application, follow these steps:
 
-Go to the URL http://imranfi.dev.fast.sheridanc.on.ca/GitHub/a4-fizza-imran/index.php to access the homepage.
 
 If you are a new user, click on the "Register" link in the header and fill out the registration form. If you are an existing user, click on the "login" link in the header and enter your username and password.
 
